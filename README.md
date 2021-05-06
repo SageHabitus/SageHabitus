@@ -1,7 +1,38 @@
-## Welcome to Baetory's Github 
+## [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwonjongah&count_bg=%23A488EB&title_bg=%235A8AE5&icon=atom.svg&icon_color=%23FFFFFF&title=WELCOME&edge_flat=false)](https://hits.seeyoufarm.com)
+
+![우주](https://user-images.githubusercontent.com/50413112/105368338-c5250000-5c44-11eb-9a01-5a8c95186bba.jpg)
 
 - I want to grow with the goal of becoming full-stack focusing on making rather than getting stuck in the details
-- However, I want to say that this is unconditional and can be fluidly changed according to the situation of the team.
+- However, I want to say that ``this is unconditional and can be fluidly changed according to the situation of the team.``
 - I hope my sauces help a little. Thank you.
+ 
+ 
+<h2 align="center">About me</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bae-tory)](https://github.com/Bae-tory/github-readme-stats)
+<p align="center">
+ <a href="https://dunkey2615.tistory.com/">
+  <img src="https://img.shields.io/badge/Tech Blog-002E5F?style=flat-square&logo=Textpattern&logoColor=white&link=mailto:mailto:dunkey2020@gmail.com"/>
+ </a>
+ </p>
+ <p align="center">
+ <a href="mailto:dunkey2020@gmail.com">
+  <img src="https://img.shields.io/badge/dunkey2020@gmail.com-941711?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailto:dunkey2020@gmail.com"/>
+ </a>
+ <a href="https://www.linkedin.com/in/%EC%84%B1%EC%9E%AC-%EB%B0%B0-1692501b4/">
+  <img src="https://img.shields.io/badge/LinkedIn-D0A9F5?style=flat-square&logo=LinkedIn&logoColor=white"/>
+ </a>
+ </p> 
+ 
+<h2 align="center">All I can do</h2>
+ 
+<p align="center">
+<img src="https://img.shields.io/badge/Android-55C500?style=flat-square&logo=Android&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white"/></a>  
+<p align="center">
+ 
+<p align="center">
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>  
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a></p> 
+<p align="center">
