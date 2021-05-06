@@ -2,6 +2,11 @@
   
 <h2 align="center">About me</h2>
 
+- I want to grow with the goal of becoming full-stack focusing on making rather than getting stuck in the details
+- However, I want to say that ``this is unconditional and can be fluidly changed according to the situation of the team.``
+- And I want to become a developer `who wants to work with you.`
+- I hope my sauces help a little. Thank you!
+
 <p align="center">
  <a href="https://dunkey2615.tistory.com/">
   <img src="https://img.shields.io/badge/Tech Blog-002E5F?style=flat-square&logo=Textpattern&logoColor=white&link=mailto:mailto:dunkey2020@gmail.com"/>
@@ -15,11 +20,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-D0A9F5?style=flat-square&logo=LinkedIn&logoColor=white"/>
  </a>
  </p> 
- 
- - I want to grow with the goal of becoming full-stack focusing on making rather than getting stuck in the details
-- However, I want to say that ``this is unconditional and can be fluidly changed according to the situation of the team.``
-- And I want to become a developer `who wants to work with you.`
-- I hope my sauces help a little. Thank you!
  
 <h2 align="center">All I can do</h2>
  
