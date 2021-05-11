@@ -35,4 +35,6 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a></p> 
 <p align="center">
   
-[![Baetory's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bae-tory&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bae-tory&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats" />
+</a>
