@@ -5,7 +5,7 @@
 - I want to grow with the goal of becoming full-stack focusing on making rather than getting stuck in the details
 - However, I want to say that ``this is unconditional and can be fluidly changed according to the situation of the team.``
 - And I want to become a developer `who wants to work with you.`
-- I hope my sauces help a little. Thank you!
+- I hope my sources help a little. Thank you!
 
 <p align="center">
  <a href="https://dunkey2615.tistory.com/">
