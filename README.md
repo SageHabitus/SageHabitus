@@ -3,10 +3,9 @@
 <h2 align="center">About me</h2>
 
 - `The field of development I am most interested in is Android.` and I prefer native over hybrid
-- but, I want to grow with the goal of becoming full-stack focusing on making rather than getting stuck in the details
+- but, I want to focuse on making rather than getting stuck in the details
 - However, I want to say that ``this is unconditional and can be fluidly changed according to the situation of the team.``
-- And I want to become a developer `who wants to work with you.`
-- I hope my sources help a little. Thank you!
+- I want to become a developer `who wants to work with you.` I hope my sources help a little. Thank you!
 
 <p align="center">
  <a href="https://dunkey2615.tistory.com/">
