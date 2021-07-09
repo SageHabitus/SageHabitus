@@ -2,10 +2,15 @@
   
 <h2 align="center">About me</h2>
 
-- `The field of development I am most interested in is Android.` and I prefer native over hybrid.
-- but, I want to focus on making rather than getting stuck in the details.
-- However, I want to say that ``this is unconditional`` and can be fluidly changed according to the situation of the team.
-- I want to become a developer `who wants to work with you.` I hope my sources help a little. Thank you!
+- I like records, so I have a tech blog with more than 150 daily visitors and 200 postings on average.
+- I like to share knowledge, so I developed my skills while conducting private tutoring.
+- In addition to what I learned and learned, I spent my own money and participated in Clean Architecture and Reactive Programming studies.
+- Lately, I've been trying to contribute to open source or doing analysis.
+- Also, I am interested in the test code, so I am studying related.
+- In addition to my main job, I am working on side projects, including contests, to gain various experiences.
+- As I have accumulated many experiences, I am usually in charge of conducting meetings and I am used to mediating communication with each other.
+- My goal is to become a developer who wants to work with me and communicates well.
+
 
 <p align="center">
  <a href="https://dunkey2615.tistory.com/">
