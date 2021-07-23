@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/dunkey2020@gmail.com-941711?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailto:dunkey2020@gmail.com"/>
  </a>
  <a href="https://www.linkedin.com/in/sungjae-bae-1692501b4/">
-  <img src="https://img.shields.io/badge/LinkedIn-D0A9F5?style=flat-square&logo=LinkedIn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-D0A9F5?style=flat-square&logo=Resume&logoColor=white"/>
  </a>
  </p> 
  
