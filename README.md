@@ -4,7 +4,6 @@
 
 - I like records, so I have a tech blog with more than 150 daily visitors and 200 postings on average.
 - I like to share knowledge, so I developed my skills while conducting private tutoring.
-- In addition to what I learned and learned, I spent my own money and participated in Clean Architecture and Reactive Programming studies.
 - In addition to my main job, I am working on side projects, including contests, to gain various experiences.
 - My goal is to become a developer who wants to work with me and communicates well.
 
