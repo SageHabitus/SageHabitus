@@ -5,9 +5,7 @@
 - I like records, so I have a tech blog with more than 150 daily visitors and 200 postings on average.
 - I like to share knowledge, so I developed my skills while conducting private tutoring.
 - In addition to what I learned and learned, I spent my own money and participated in Clean Architecture and Reactive Programming studies.
-- Lately, I've been trying to contribute to open source or doing analysis.
 - In addition to my main job, I am working on side projects, including contests, to gain various experiences.
-- As I have accumulated many experiences, I am usually in charge of conducting meetings and I am used to mediating communication with each other.
 - My goal is to become a developer who wants to work with me and communicates well.
 
 
