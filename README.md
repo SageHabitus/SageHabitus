@@ -9,9 +9,9 @@
 
 
 <p align="center">
- <a href="https://www.linkedin.com/in/sungjae-bae-1692501b4/">
+<!--  <a href="https://www.linkedin.com/in/sungjae-bae-1692501b4/">
   <img src="https://img.shields.io/badge/Resume-9C27B0?style=flat-square&logo=LinkedIn&logoColor=white"/>
- </a>
+ </a> -->
  </p>
  <p align="center">
  <a href="https://dunkey2615.tistory.com/">
