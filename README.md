@@ -1,8 +1,5 @@
-## [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwonjongah&count_bg=%23A488EB&title_bg=%235A8AE5&icon=atom.svg&icon_color=%23FFFFFF&title=WELCOME&edge_flat=false)](https://hits.seeyoufarm.com)
-  
 <h2 align="center">About me</h2>
 
-- I like records, so I have a tech blog with more than 150 daily visitors and 200 postings on average.
 - I like to share knowledge, so I developed my skills while conducting private tutoring.
 - In addition to my main job, I am working on side projects, including contests, to gain various experiences.
 - My goal is to become a developer who wants to work with me and communicates well.
