@@ -7,7 +7,7 @@
 
 
 <p align="center">
- <a href="https://www.linkedin.com/in/sungjae-bae-1692501b4/">
+ <a href="https://www.linkedin.com/in/%EC%84%B1%EC%9E%AC-%EB%B0%B0-1692501b4/">
   <img src="https://img.shields.io/badge/Resume-9C27B0?style=flat-square&logo=LinkedIn&logoColor=white"/>
  </a>
  </p>
